@@ -50,3 +50,12 @@ php artisan migrate --seed
 ```sh
 php artisan serve --port=8002
 ```
+
+✅ When the seeder file is executed, a default user is created in the users table.
+The login credentials are:
+
+-   Email: test@example.com
+
+-   Password: password
+
+By default, these credentials will be pre-filled in the login form.

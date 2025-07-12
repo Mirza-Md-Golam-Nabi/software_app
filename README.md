@@ -33,7 +33,7 @@ cp .env.example .env
 Create a database named:
 
 ```sh
-website_app
+software_app
 ```
 
 5. Run migrations and seeders
